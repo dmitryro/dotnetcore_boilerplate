@@ -10,8 +10,8 @@ public class RecordService : IRecordService
     {
         Records = new List<Record>
         {
-            new Record { Id = 1, Name = "Classic Italian", IsActive = false, Bio = "See Him" },
-            new Record { Id = 2, Name = "Veggie", IsActive = true, Bio = "And Him" }
+            new Record { Id = 1, Name = "Classic Italian", IsActive = true, Bio = "Some Italian Food" },
+            new Record { Id = 2, Name = "Classic French", IsActive = true, Bio = "Some French Food" }
         };
     }
 
