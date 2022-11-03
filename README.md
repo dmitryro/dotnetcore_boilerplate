@@ -1,8 +1,8 @@
 
 
-### Creating new project or using this project
+# README 
 
-# To run this specific example just build and run it, but if you create from scratch, follow the steps below. You still need to get the packages once you clone the repository.
+To run this specific example just get packages, build and run it, but if you create from scratch, follow the steps below. You still need to get the packages once you clone the repository.
 
 
 ## The following command will create project (if needed - you already cloned it) named **Boilerplate** using **webapi** template - this is the default API project
