@@ -2,7 +2,12 @@
 
 # README 
 
+
 To run this specific example just get packages, build and run it, but if you create from scratch, follow the steps below. You still need to get the packages once you clone the repository.
+
+## Install .NET Core 7 from Microsoft's site:
+
+https://dotnet.microsoft.com/en-us/download/dotnet/7.0
 
 
 ##  To create a new project (if you don't use the code provided)
