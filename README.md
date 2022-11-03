@@ -5,7 +5,7 @@
 To run this specific example just get packages, build and run it, but if you create from scratch, follow the steps below. You still need to get the packages once you clone the repository.
 
 
-## The following command will create project (if needed - you already cloned it) named **Boilerplate** using **webapi** template - this is the default API project
+##  To create a new project (if you don't use the code provided)
 ```
 dotnet new webapi -o Boilerplate
 ```
@@ -14,6 +14,7 @@ dotnet new webapi -o Boilerplate
 ```
 cd Boilerplate
 ```
+
 
 
 ## Add the packages so the project can be built
@@ -45,8 +46,9 @@ dotnet run
 
 ## Check the API
 
-# Open broser at https://localhost:5001/api/record
-# You should get the response from API
+Open broser at https://localhost:5001/api/record
+You should get the response from API
+For other endpoints - check the Controllers definitions and follow same routing convention **api/helloworld**, **api/record/<id>** etc.
 
 
 
